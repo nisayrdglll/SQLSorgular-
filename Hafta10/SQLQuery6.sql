@@ -1,0 +1,6 @@
+--d??ar?dan girilen bir tarihe göre
+--son 1 aya ait eger siparis vermemis olan 
+--musteri varsa 'Toplam ... mü?teri 
+--son 1 ay içerisinde sipari? vermedi.', yoksa
+-- 'son 1 ay içerisinde sipari? vermemi? mü?teri yok'
+--?eklinde ekrana bilgi yazdiran kodu yaziniz 

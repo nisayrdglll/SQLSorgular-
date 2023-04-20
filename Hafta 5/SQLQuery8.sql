@@ -1,0 +1,3 @@
+SELECT DISTINCT ProductID FROM OrderDetails
+WHERE OrderID IN 
+(SELECT OrderID FROM Orders WHERE customerID='BLONP')

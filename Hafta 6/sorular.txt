@@ -1,0 +1,9 @@
+Soru 1. Siparisleri gönderildikleri kargo firmas?n?n ismi ile listeleyen sorguyu yaz?n?z.
+
+Soru 2. Siparis veren mü?terilerin ad? ile kargo firmalar?n?n ad?n? tek bir listede alt alta listeleyen sorguyu yaz?n?z.
+
+Soru 3. Ürünleri sat?lsada sat?lmasa da Ürün ad?, sat?lan toplam miktar ve tedarikci ad? ile listeleyen sorguyu yaz?n?z.
+
+Soru 4. Personellerin isim, soyisim, rapor verdikleri ki?inin ad?-soyad?n? birlesik arada boslukla eger yoksa Bilinmiyor seklinde gosteren ve ald?klar? toplam siparis miktar?n? listeleyen sorguyu yaz?n?z.
+
+Soru 5. Yap?lan toplam siparislerin ortalamas?ndan daha fazla siparis vermis olan mü?terileri verdikleri siparis miktarlar? ile listeleyen sorguyu yaz?n?z.
